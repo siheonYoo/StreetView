@@ -5,7 +5,7 @@ using System.Net;
 using System.IO;
 using UnityEngine.UI;
 
-public class SkyBoxImg : MonoBehaviour
+public class MakeSkyBox : MonoBehaviour
 {
     struct StreetViewApiParam
     {
